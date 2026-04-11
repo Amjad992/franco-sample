@@ -12,3 +12,4 @@ https://blossomup.co/wp-content/uploads/elementor/css/post-123987.css
 https://blossomup.co/quiz/finaltest/
 https://blossomup.co/wp-content/uploads/elementor/css/post-111.css
 https://blossomup.co/quiz/abc/
+https://blossomup.co/wp-content/uploads/elementor/css/post-1234.css
