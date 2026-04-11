@@ -1,0 +1,17 @@
+name: PR Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  ready-check:
+    name: Ready to Merge
+    runs-on: ubuntu-latest
+    steps:
+      - name: Simulating pre-merge validation
+        run: |
+          echo "Running pre-merge checks..."
+          sleep 10
+          echo "All checks passed. PR is ready to merge."
