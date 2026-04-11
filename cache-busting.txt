@@ -10,3 +10,4 @@ https://blossomup.co/wp-content/uploads/elementor/css/post-12345.css
 https://blossomup.co/quiz/12345/
 https://blossomup.co/wp-content/uploads/elementor/css/post-123987.css
 https://blossomup.co/quiz/finaltest/
+https://blossomup.co/wp-content/uploads/elementor/css/post-111.css
