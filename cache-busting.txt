@@ -3,3 +3,4 @@ https://blossomup.co/wp-content/uploads/elementor/css/post-123.css
 https://blossomup.co/quiz/test12dd/
 https://blossomup.co/wp-content/uploads/elementor/css/post-123.css
 https://blossomup.co/quiz/test/
+https://blossomup.co/wp-content/uploads/elementor/css/post-1.css
