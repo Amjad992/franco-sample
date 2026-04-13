@@ -16,3 +16,4 @@ https://blossomup.co/wp-content/uploads/elementor/css/post-1234.css
 https://blossomup.co/quiz/fff/
 https://blossomup.co/wp-content/uploads/elementor/css/post-123.css
 https://blossomup.co/quiz/form1/
+https://blossomup.co/wp-content/uploads/elementor/css/post-111333.css
