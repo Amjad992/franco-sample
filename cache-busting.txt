@@ -19,3 +19,4 @@ https://blossomup.co/quiz/form1/
 https://blossomup.co/wp-content/uploads/elementor/css/post-111333.css
 https://blossomup.co/quiz/someformid/
 https://blossomup.co/wp-content/uploads/elementor/css/post-1234.css
+https://blossomup.co/quiz/ad/
