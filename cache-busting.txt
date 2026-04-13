@@ -26,3 +26,4 @@ https://blossomup.co/quiz/personality-types-v1info/
 https://blossomup.co/wp-content/uploads/elementor/css/post-123.css
 https://blossomup.co/quiz/formform/
 https://blossomup.co/wp-content/uploads/elementor/css/post-123.css
+https://blossomup.co/quiz/abc/
